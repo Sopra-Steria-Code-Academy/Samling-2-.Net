@@ -1,0 +1,4 @@
+@CodeAcademy_HostAddress = https://localhost:44380
+
+GET {{CodeAcademy_HostAddress}}/WeatherForecast/
+Accept: application/json

@@ -1,0 +1,15 @@
+### .Net ###
+**/build/
+**/bin/
+**/obj/
+**/TestResults/
+
+### VS Code ###
+.vscode/
+/.vs
+/CodeAcademy/.vs/CodeAcademy
+/CodeAcademy/.vs/ProjectEvaluation
+/CodeAcademy/Properties/PublishProfiles/CodeAcademyTestApp - Zip Deploy.pubxml.user
+/CodeAcademy/Properties/PublishProfiles
+/CodeAcademy/Properties/ServiceDependencies/CodeAcademyTestApp - Zip Deploy
+terraform/terraform.exe
