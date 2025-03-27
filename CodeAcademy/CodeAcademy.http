@@ -2,3 +2,6 @@
 
 GET {{CodeAcademy_HostAddress}}/WeatherForecast/
 Accept: application/json
+
+GET {{CodeAcademy_HostAddress}}/WeatherForecast/
+Accept: application/json
